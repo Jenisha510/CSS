@@ -1,0 +1,30 @@
+a:link{
+    color:yellow;
+
+}
+a:visited{
+    color:green
+    padding:10px;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:rgb(18, 11, 240);
+}
+div a{
+    padding:30px;
+    display:block;
+}
+div p:nth-child(even){
+    background-color:green;
+    color:orange;
+
+}
+div h3:first-child{
+    background-color: blueviolet;
+    color:yellow;
+}
+a:focus{
+    background-color: aqua;
+}

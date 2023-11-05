@@ -1,0 +1,188 @@
+.NAME{
+    background-color: rgb(58, 108, 201);
+    color:rgb(184, 250, 85);
+    text-align:center;
+    height:50px;
+    width:99%;
+    border:1px solid black;
+    margin:0px 0;
+}
+.BIO{
+    background-color: rebeccapurple;
+    text:weight 20px;
+    color:rgb(184, 250, 85);
+    text-align:center;
+    height:50px;
+    width:99%;
+    border:1px solid black;
+    padding:5px 0;
+    margin:0px 0;
+}
+.animal1{
+    background-color: chartreuse;
+    text-align:center;
+    float:left;
+    width:30%;
+    height:25px;
+    border:1px solid black;
+}
+.animal2{
+    background-color: chartreuse;
+    text-align:center;
+    float:left;
+    width:35%;
+    height:25px;
+    border:1px solid black;
+}
+.animal3{
+    background-color: chartreuse;
+    text-align:center;
+    float: left;
+    width:34%;
+    height:25px;
+    border:1px solid black;
+}
+.home{
+    background-color: rgb(118, 122, 223);
+    text-align:center;
+    float:left;
+    width:30%;
+    height:25px;
+    border:1px solid black;
+}
+.images{
+    background-color: rgb(118, 122, 223);
+    text-align:center;
+    float:left;
+    width:35%;
+    height:25px;
+    border:1px solid black;
+}
+.Description{
+    background-color: rgb(118, 122, 223);
+    text-align:center;
+    float:left;
+    width:34%;
+    height:25px;
+    border:1px solid black;
+}
+.elephants{
+    background-color:palegreen;
+    text-align:left;
+    float:left;
+    width:30%;
+    height:150px;
+    border:1px solid black;
+    padding:5px 0;
+    margin:0px 0;
+}
+.lion{
+    background-color: palegreen;
+    text-align:left;
+    float:left;
+    color:black;
+    border:1px solid black;
+    width:35%;
+    height:150px;
+    padding:5px 0;
+    margin:0px 0;
+}
+.tiger{
+    background-color: palegreen;
+    float:left;
+    color:black;
+    border:1px solid black;
+    width:34%;
+    height:150px;
+    padding:5px 0;
+    margin:0px 0
+}
+.list1{
+    background-color:rgb(176, 137, 212);
+    text-align:left;
+    float:left;
+    width:30%;
+    height:130px;
+    border:1px solid black;
+    padding:5px 0;
+    margin:0px 0;
+}
+.list2{
+    background-color:rgb(176, 137, 212);
+    float:left;
+    width:35%;
+    height:130px;
+    border:1px solid black;
+    padding:5px 0;
+    margin:0px 0;
+}
+.list3{
+    background-color: rgb(176, 137, 212);
+    float:left;s
+    color:black;
+    border:1px solid black;
+    width:34%;
+    height:130px;
+    padding:5px 0;s
+    margin:0px 0;
+}
+.ELEPHANTIMAGE
+{
+    background-color: rgb(18, 177, 9);
+    float:left;
+    width:30%;
+    height:250px;
+    padding:5px 0;
+    margin:0px 0;
+    border:1px solid black;
+    
+}
+.LIONIMAGE
+{
+    background-color: rgb(18, 177, 9);
+    float:left;
+    width:35%;
+    height:250px;
+    padding:5px 0;
+    margin:0px 0;
+    border:1px solid black;
+
+}
+.TIGERIMAGE{
+    background-color: rgb(18, 177, 9);
+    float:left;
+    width:34%;
+    height:250px;
+    padding:5px 0;
+    margin:0px 0;
+    border:1px solid black;
+   
+}
+.place{
+    float:left;
+    width:30%;
+    height:100px;
+    border:1px solid black;
+    padding:5px 0;
+    margin:0px 0;
+    background-color: rgb(58, 108, 201);
+}
+.Submit{
+    float:left;
+    width:35%;
+    height:100px;
+    border:1px solid black;
+    padding:5px 0;
+    margin:0px 0;
+    background-color: rgb(58, 108, 201);
+    
+}
+.Feedback{
+    float:left;
+    width:34%;
+    height:100px;
+    border:1px solid black;
+    padding:5px 0;
+    margin:0px 0;
+    background-color: rgb(58, 108, 201);
+}

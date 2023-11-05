@@ -1,0 +1,43 @@
+.layout{
+    margin:0;
+    padding:0;
+    height:170vh;
+    width:99%;
+    border:7px solid grey;
+    column-rule-width: 2px;
+}
+    .page1{
+    column-count: 2;
+    column-gap: 10px;
+    column-rule-style:solid ;
+    border:3px solid rgb(204, 187, 187);
+    
+}
+.spanning{
+    background-color: aquamarine;
+}
+.regular{
+    background-color: rgb(186, 192, 190);
+}
+div h1 {
+    font-size: 35px;
+    color:red;
+    text-align: center;
+}
+.hai{
+    column-count: 2;
+    background-color: bisque;
+}
+.image{
+    background-image: url(https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Image141m-1644327715299.jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position:left;
+
+}
+.section{
+    column-count: 4;
+    column-rule-style: solid;
+    column-gap:10px ;
+    
+}

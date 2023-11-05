@@ -1,0 +1,46 @@
+.navbar
+    {
+    background-color: green;
+    
+    }
+
+    .menubar
+    {
+        background-color: blue;
+        float:left;
+        width:35%;
+        height:300px;
+        
+    }
+
+    .content
+    {
+        background-color: yellowgreen;
+        float:left;
+        width:35%;
+        height:300px;
+        }
+
+    .sidebar
+    {
+        background-color: blueviolet;
+        float:right;
+    width:30%;
+    height:300px;
+    
+    
+    }
+
+    .footer
+    {
+        background-color: red;
+        clear:both;
+    }
+    .layout>div
+    {
+text-align: center;
+padding:10px 0;
+margin:5px 0;
+
+    }
+

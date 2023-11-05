@@ -1,0 +1,25 @@
+div p:first-line{
+    color:red;
+
+}
+div p::first-letter{
+    background-color: chartreuse;
+}
+div h4{
+    background-color: crimson;
+    color:rgb(95, 95, 226);
+
+}
+h5::before{
+    content:"@"
+    }
+h5::after{     
+        content:"*"
+        }
+div li::marker{
+    color:rgb(209, 0, 105);
+    background-color: darkmagenta;
+}      
+ p::selection{
+    background-color: gold;
+}  

@@ -1,0 +1,60 @@
+#border1{
+width:70px;
+height:30px;
+outline:10px solid rgb(10, 203, 237);
+text-align: center;
+}
+#border2{
+    width:70px;
+    height:30px;
+    outline:10px dashed rgb(14, 240, 221);
+    text-align: center;
+    }
+    #border3{
+        width:70px;
+        height:30px;
+        outline:10px dotted rgb(12, 212, 234);
+        text-align: center;
+        }
+        #border4{
+            width:70px;
+            height:30px;
+            outline:10px double rgb(12, 212, 234);
+            text-align: center;
+            }
+            #border5{
+                width:70px;
+                height:30px;
+                outline:10px groove green ;
+                text-align: center;
+                
+                }
+                #border6{
+                    width:70px;
+                    height:30px;
+                    outline:10px hidden rgb(22, 201, 246) ;
+                    text-align: center;
+                    
+                    }
+                    #border7{
+                        width:70px;
+                        height:30px;
+                        outline:10px inset rgb(13, 224, 232) ;
+                        text-align: center;
+                        
+                        }
+                        #border8{
+                            width:70px;
+                            height:30px;
+                            outline:10px outset rgb(13, 224, 232) ;
+                            text-align: center;
+                            
+                            }
+                            #border9{
+                                width:70px;
+                                height:30px;
+                                outline:10px ridge rgb(13, 224, 232) ;
+                                text-align: center;
+                                
+                                }
+                                

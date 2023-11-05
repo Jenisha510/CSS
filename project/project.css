@@ -1,0 +1,125 @@
+body{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+section{
+    width:100%;
+    height:100%;
+    background:radial-gradient(white,rgb(252, 251, 251));
+}
+.set{
+    position: absolute;
+    width: 100%;
+    height:100%;
+    top:0;
+    left:0;
+}
+.set div{
+position:absolute;
+display:block;
+
+}
+.set div:nth-child(1)
+{
+left:0%;
+animation:animate 15s linear infinite;
+animation-delay: -7s;
+}
+.set div:nth-child(2)
+{
+    left:24%;
+    animation:animate 20s linear infinite;
+    animation-delay: -10s;
+}
+    
+.set div:nth-child(3)
+{
+left:33%;
+animation:animate 13s linear infinite;
+animation-delay: -13s;
+}
+.set div:nth-child(4)
+{
+left:43%;
+animation:animate 16s linear infinite;
+animation-delay: -29s;
+}
+.set div:nth-child(5)
+{
+left:85%;
+animation:animate 15s linear infinite;
+animation-delay: -58s;
+}
+.set div:nth-child(6)
+{
+left:75%;
+animation:animate 44s linear infinite;
+animation-delay: -30s;
+}
+.set div:nth-child(7)
+{
+left:63%;
+animation:animate 19s linear infinite;
+animation-delay: -15s;
+}
+.set div:nth-child(8){
+left:13%;
+animation:animate 10s linear infinite;
+animation-delay: -18s;
+}
+.set div:nth-child(9){
+left:54%;
+animation:animate 15s linear infinite;
+animation-delay: -10s;
+}
+                                
+@keyframes animate
+{
+ 0%
+{
+top:-10%;
+ } 
+10%{
+opacity:1.5;
+}
+20%{
+    transform:translateX(-20px) rotate(45deg);
+   }
+   40%{
+    transform:translateX(-20px) rotate(90deg);
+   }
+   60%{
+    transform:translateX(-20px) rotate(135deg);
+   }
+   80%{
+    transform:translateX(-20px) rotate(180deg);
+   }
+   100%{
+    top:110%;
+    transform:translateX(-20px) rotate(180deg);
+   }
+   
+}                                  
+                           
+  .set1{
+    transform:scale(0.8) rotateX(180deg);
+    filter: blur(3);
+  }                                          
+  .set2{
+    transform:scale(0.8) rotateX(180deg);
+    filter: blur(3);
+  }                                               
+  h1{
+    position:absolute;
+    top:40%;
+    width:100%;
+    text-align: center;
+    padding:0;
+    margin:0;
+    float:center;
+    font-size: 8rem;
+    font-family: sans-serif;
+    color:red;
+   }
+  

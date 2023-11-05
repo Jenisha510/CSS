@@ -1,0 +1,17 @@
+.main{
+    overflow: hidden;
+    height:400px;
+    width: 300px;
+}
+.main1{
+    height:1500px;
+    width: 400px;
+    background-color: rgb(253, 175, 120);
+    padding:10px;
+    justify-content: right;
+}
+.main{
+overflow-x:scroll ;
+overflow-y:scroll ;
+overflow: scroll;
+}

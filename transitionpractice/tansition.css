@@ -1,0 +1,26 @@
+.translate{
+    width:150px;
+    height:80px;
+    background-color: chartreuse;
+    transform:rotate(20deg);
+    padding:30px;
+    position:absolute;
+    left:20px;
+}
+.scalex{
+    width:30px;
+    height:20px;
+    background-color: rgb(47, 0, 255);
+    transform:scale(2,3);
+    padding:30px;
+    position: absolute;
+    left:400px;
+    top:150px;
+}
+.head1{
+position:absolute;
+left:400px;
+top:10px;
+}
+
+

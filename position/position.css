@@ -1,0 +1,25 @@
+.main{
+   border:2px solid black;
+   height:500px;
+   width:75%; 
+   position:relative;
+
+}
+.ball{
+    height:100px;
+    width:20%;
+    position:absolute;
+    left:200px;
+    right:200px;
+    bottom:200px;
+
+}
+.bat{
+    height:100px;
+    width:20%;
+    position:static;
+    left:200px;
+    right:200px;
+    bottom:200px;
+
+}

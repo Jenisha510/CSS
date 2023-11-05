@@ -1,0 +1,24 @@
+.home1{
+    padding:20px;
+    background-color: yellow;
+    margin:10px;
+    position: sticky;
+    top:0;
+}
+div a{
+    padding:10px;
+    margin:10px;
+    }
+div p{
+    background-color: rgba(137, 43, 226, 0);
+    padding:10px;
+    margin:10px;
+    
+}
+.house1{
+    position:fixed;
+}
+.honey{
+    position:fixed;
+    float:left;
+}

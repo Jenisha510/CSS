@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    border:8px solid gray;
+  }
+  
+  .cointainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-gap: 10px;
+    padding: 20px;
+    
+  }
+  
+  .cointainer img {
+    max-width: 100%;
+    display: block;
+    border-radius: 10px;
+    border:3px double black;
+  }
+  .cointainer:hover {
+    background-color:aqua;
+    cursor:help;
+  }
+
+  

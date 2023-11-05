@@ -1,0 +1,25 @@
+table,th,td{
+   border: solid 1px black;
+}
+table{
+    border-collapse:collapse;
+    position:relative;
+    top:80px;
+}
+table{
+    height:300px;
+    width:100%;
+}
+tr{
+    text-align: center;
+}
+th,td{
+    border-bottom:2px solid greenyellow;
+
+}
+tr:hover{
+    background-color:rgb(188, 135, 237);
+}
+tr:nth-child(odd){
+    background-color:rgb(169, 165, 165) ;
+}

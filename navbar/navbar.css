@@ -1,0 +1,13 @@
+a:hover{
+    background-color: rgb(149, 140, 149);
+
+}
+
+
+div a{
+    list-style-type: none;
+    padding:20px;
+    display:inline-block;
+    color:white;
+    background-color: black;
+}

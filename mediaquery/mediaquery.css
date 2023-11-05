@@ -1,0 +1,12 @@
+.media{
+    background-color: rgb(123, 123, 235);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+@media screen and (min-width:1000px);
+.media{
+    background-color: rgb(235, 142, 123);
+    font-family: 'Times New Roman', Times, serif;
+    color:green;
+    
+}

@@ -1,0 +1,48 @@
+.main{
+    background-image:linear-gradient(to  right,orangered 55% ,yellow  );
+    position:relative;
+}
+ul{
+    list-style-type: none;
+}
+ li{
+    style-type:none;
+    color:white;
+    display:inline-block;
+    padding:10px;
+    float:right;
+    }
+    div h3{
+        color:white;
+        float:left;
+        position:absolute;
+        left:60px;
+    }
+    .centercontent{
+        color:white;
+        position:absolute;
+        top:200px;
+        left:400px;
+        text-shadow: 2px 2px 2px 2px;
+
+    }
+    .button{
+        width:55%;
+        color:black;
+        background-color: white;
+        border-radius:10px;
+        height:45px;
+        border:2px solid white;
+
+    }
+     .image{
+        width:30px;
+        height:40px;
+        float:left;
+        position:absolute;
+        left:20px;
+    }
+    .p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+       
+    }

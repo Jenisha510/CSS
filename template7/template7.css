@@ -1,0 +1,129 @@
+.header1{
+    background-color: rgb(251, 246, 247);
+    position:relative;
+   
+}
+.header1 img{
+    position:relative;
+    left:200px;
+    top:50px;
+    width:100px;
+    height:100px;
+   
+}
+.location{
+    position:relative;
+    left:700px;
+    top:-20px;
+}
+.location1{
+    position:relative;
+    left:1000px;
+    top:-60px;
+}
+
+.header{
+    background-color: rgb(139, 246, 237);
+    color:black;
+    text-align: center;
+    position: relative;
+    top:-20px;
+    }
+ul li{
+    list-style-type: none;
+    display:inline-block;
+    font-size:20px;
+    padding:20px;
+    word-spacing: 2px;;
+}
+.image img{
+    width:100%;
+    height:100vh;
+    position: relative;
+    top:-40px;
+    opacity:0.8;
+    }
+.content{
+    justify-content: center;
+    position:relative;
+    top:-600px;
+    left:400px;
+    color:rgb(10, 180, 236);
+    font-size: 20px;
+}
+div h1{
+    color:rgb(244, 12, 51);
+    text-shadow: 10px 15px 15px 15px rgb(20, 19, 19);
+}
+div h2{
+    color:black;
+}
+div p{
+    color:black;
+}
+.button{
+    background-color: transparent;
+    border-radius: 20px;
+    width:200px;
+    height:34px;
+
+}
+.main{
+    position: relative;
+    left:165px;
+    top:-400px;
+    
+}
+.subcontent{
+    width:80%;
+    height:400px;
+}
+.subcontent1{
+    position: relative;
+    top:-40px;
+    
+}
+.content1{
+    background-color: rgb(247, 202, 119);
+    padding:40px;
+    float:left;
+    width:25%;
+    height:100px;
+    
+}
+.content2{
+    background-color: rgb(118, 217, 245);
+    padding:40px;
+    float:left;
+    width:25%;
+    height:100px;
+}
+.content3{
+    background-color: rgb(81, 63, 214);
+    padding:40px;
+    float:left;
+    width:25%;
+    height:100px;
+
+}
+.content4{
+    background-color: rgb(242, 126, 215);
+    padding:40px;
+    float:left;
+    width:25%;
+    height:100px;
+}
+.content5{
+    background-color: rgb(242, 126, 215);
+    padding:40px;
+    float:left;
+    width:25%;
+    height:100px;
+}
+.content6{
+    background-color: rgb(242, 126, 215);
+    padding:40px;
+    float:left;
+    width:25%;
+    height:100px;
+}
